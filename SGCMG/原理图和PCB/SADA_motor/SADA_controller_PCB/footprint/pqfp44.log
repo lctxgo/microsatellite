@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : PQFP44.dra                                    )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Tue Apr 02 21:53:12 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Microsatellite/SADA_controller_PCB/footprint
+    Name      = pqfp44.psm
+    User      = Chancel
+    Machine   = DESKTOP-59S32DB
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : LED0603.dra                                   )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Wed Apr 10 20:02:45 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Microsatellite/SADA_controller_PCB/footprint
+    Name      = led0603.psm
+    User      = Chancel
+    Machine   = DESKTOP-59S32DB
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

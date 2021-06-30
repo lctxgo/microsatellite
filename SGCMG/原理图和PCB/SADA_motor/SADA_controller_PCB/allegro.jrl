@@ -1,0 +1,20 @@
+\t (00:00:01) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:01)     Journal start - Thu Apr 04 11:01:30 2019
+\t (00:00:01)         Host=DESKTOP-59S32DB User=Chancel Pid=18600 CPUs=8
+\t (00:00:01) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:01) 
+\t (00:00:03) Starting new design...
+\i (00:00:04) trapsize 894
+\i (00:00:04) trapsize 871
+\i (00:00:04) trapsize 897
+\i (00:00:04) trapsize 823
+\i (00:00:04) trapsize 1448
+\i (00:00:05) generaledit 
+\i (00:00:08) trapsize 1384
+\i (00:00:09) trapsize 1028
+\i (00:00:10) open 
+\i (00:00:13) fillin "D:\Microsatellite\SADA_controller_PCB\footprint\SADA_controller.brd"
+\i (00:00:13) cd "D:\Microsatellite\SADA_controller_PCB\footprint"
+\t (00:00:13) Opening existing design...
+\i (00:00:13) trapsize 4013
+\t (00:00:13)     Journal end - Thu Apr 04 11:01:42 2019

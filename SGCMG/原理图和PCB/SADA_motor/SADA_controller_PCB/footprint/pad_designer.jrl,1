@@ -1,0 +1,18 @@
+\t (00:00:14) pad_designer 16.6-2015 S062 (v16-6-112EZ) Windows 32
+\t (00:00:14)     Journal start - Wed Apr 10 20:04:21 2019
+\t (00:00:14)         Host=DESKTOP-59S32DB User=Chancel Pid=2460 CPUs=8
+\t (00:00:14) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\pad_designer.exe
+\t (00:00:14) 
+\i (00:00:22) FORM padedit layers  
+\i (00:00:25) FORM padedit grid row begin_layer 
+\i (00:00:26) FORM padedit grid row soldermask_top 
+\i (00:00:26) FORM padedit grid row begin_layer 
+\i (00:00:28) FORM padedit grid row soldermask_top 
+\i (00:00:31) FORM padedit grid row begin_layer 
+\i (00:00:31) FORM padedit grid row soldermask_top 
+\i (00:00:32) FORM padedit grid row begin_layer 
+\i (00:00:32) FORM padedit grid row soldermask_top 
+\i (00:00:33) FORM padedit grid row begin_layer 
+\i (00:00:33) FORM padedit grid row soldermask_top 
+\i (00:00:35) pse_exit
+\t (00:00:35)     Journal end - Wed Apr 10 20:04:42 2019

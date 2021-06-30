@@ -1,0 +1,60 @@
+\t (00:00:05) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:05)     Journal start - Sun Dec 06 20:02:07 2020
+\t (00:00:05)         Host=THINKPAD User=Chancel Pid=912 CPUs=8
+\t (00:00:05) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:05) 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: D:/Microsatellite/SADA_motor/SADA_controller_PCB/footprint/SADA_controller.brd
+\i (00:00:07) trapsize 3018
+\i (00:00:07) trapsize 2948
+\i (00:00:07) trapsize 3031
+\i (00:00:08) trapsize 3031
+\i (00:00:10) generaledit 
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out -6.4107 4.9653
+\i (00:00:13) trapsize 6061
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 15.5220 4.9653
+\i (00:00:13) trapsize 12122
+\i (00:00:13) zoom out 1 
+\i (00:00:13) setwindow pcb
+\i (00:00:13) zoom out 111.0440 -11.4005
+\i (00:00:13) trapsize 13629
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in 11.8569 -35.2981
+\i (00:00:14) trapsize 6814
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in -34.0715 -35.2981
+\i (00:00:14) trapsize 3407
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in -7.4957 -18.3304
+\i (00:00:15) trapsize 1704
+\i (00:00:15) zoom in 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom in -7.4957 -18.3304
+\i (00:00:15) trapsize 852
+\i (00:00:42) zoom out 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom out -17.7342 -20.2383
+\i (00:00:42) trapsize 1704
+\i (00:00:42) zoom in 1 
+\i (00:00:42) setwindow pcb
+\i (00:00:42) zoom in -15.2810 -18.2963
+\i (00:00:42) trapsize 852
+\i (00:01:05) zoom out 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom out -11.6524 -17.7000
+\i (00:01:05) trapsize 1704
+\i (00:01:05) zoom out 1 
+\i (00:01:05) setwindow pcb
+\i (00:01:05) zoom out -11.6183 -17.6660
+\i (00:01:05) trapsize 3407
+\i (00:02:56) pick grid -10.5962 -12.9641
+\t (00:02:56) last pick:  -10.6680 -12.9540
+\i (00:49:15) exit 
+\t (00:49:16)     Journal end - Sun Dec 06 20:51:18 2020

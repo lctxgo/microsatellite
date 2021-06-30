@@ -1,0 +1,230 @@
+\t (00:00:01) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:01)     Journal start - Thu Apr 04 10:46:29 2019
+\t (00:00:01)         Host=DESKTOP-59S32DB User=Chancel Pid=14452 CPUs=8
+\t (00:00:01) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:01) 
+\t (00:00:03) Opening existing design...
+\d (00:00:03) Design opened: D:/Microsatellite/SADA_controller_PCB/SADA_controller.brd
+\i (00:00:04) trapsize 4030
+\i (00:00:04) trapsize 3930
+\i (00:00:04) trapsize 4047
+\i (00:00:04) trapsize 3711
+\i (00:00:04) trapsize 4259
+\i (00:00:05) generaledit 
+\i (00:00:15) trapsize 6204
+\i (00:00:17) trapsize 4605
+\i (00:00:21) place manual 
+\i (00:00:25) setwindow form.plc_manual
+\i (00:00:25) FORM plc_manual advanced_settings  
+\i (00:00:25) FORM plc_manual library YES 
+\i (00:00:26) FORM plc_manual placement_list  
+\i (00:00:29) FORM plc_manual categories Package symbols 
+\i (00:00:54) FORM plc_manual cancel  
+\i (00:00:54) setwindow pcb
+\i (00:00:54) generaledit 
+\i (00:01:33) place manual 
+\i (00:01:35) setwindow form.plc_manual
+\i (00:01:35) FORM plc_manual advanced_settings  
+\i (00:01:36) FORM plc_manual library YES 
+\i (00:01:40) FORM plc_manual placement_list  
+\i (00:01:43) FORM plc_manual categories Format symbols 
+\i (00:01:49) FORM plc_manual categories Mechanical symbols 
+\i (00:01:51) FORM plc_manual cancel  
+\i (00:01:51) setwindow pcb
+\i (00:01:51) generaledit 
+\i (00:01:54) enved 
+\i (00:01:55) generaledit 
+\i (00:01:59) setwindow form.prfedit
+\i (00:01:59) FORM prfedit treelist  Ic_packaging 
+\i (00:02:03) FORM prfedit treelist  Paths 
+\i (00:02:06) FORM prfedit treelist  Library Paths 
+\i (00:02:13) FORM prfedit devpath  
+\i (00:02:27) FORM prfedit modulepath  
+\i (00:02:40) FORM prfedit done  
+\i (00:02:42) setwindow pcb
+\i (00:02:42) place manual 
+\i (00:02:44) setwindow form.plc_manual
+\i (00:02:44) FORM plc_manual advanced_settings  
+\i (00:02:45) FORM plc_manual library YES 
+\i (00:02:46) FORM plc_manual placement_list  
+\i (00:02:48) FORM plc_manual categories Package symbols 
+\i (00:04:39) setwindow pcb
+\i (00:04:39) enved 
+\i (00:04:41) setwindow form.plc_manual
+\i (00:04:41) FORM plc_manual cancel  
+\i (00:04:41) setwindow pcb
+\i (00:04:41) generaledit 
+\i (00:04:46) setwindow form.prfedit
+\i (00:04:46) FORM prfedit favorite.devpath YES 
+\i (00:04:48) FORM prfedit favorite.psmpath YES 
+\i (00:04:49) FORM prfedit psmpath  
+\i (00:05:05) FORM prfedit padpath  
+\i (00:05:07) FORM prfedit devpath  
+\i (00:05:10) FORM prfedit padpath  
+\i (00:05:18) FORM prfedit padpath  
+\i (00:05:26) FORM prfedit done  
+\i (00:05:29) setwindow pcb
+\i (00:05:29) place manual 
+\i (00:05:32) setwindow form.plc_manual
+\i (00:05:32) FORM plc_manual advanced_settings  
+\i (00:05:33) FORM plc_manual library YES 
+\i (00:05:34) FORM plc_manual placement_list  
+\i (00:05:35) FORM plc_manual tree  'Package symbols' 
+\i (00:05:51) FORM plc_manual tree  HPAC_100 'Package symbols' 
+\i (00:06:06) FORM plc_manual advanced_settings  
+\i (00:06:07) FORM plc_manual database NO 
+\i (00:06:09) FORM plc_manual done  
+\i (00:06:09) setwindow pcb
+\i (00:06:09) generaledit 
+\i (00:06:11) place manual 
+\i (00:06:12) setwindow form.plc_manual
+\i (00:06:12) FORM plc_manual advanced_settings  
+\i (00:06:13) FORM plc_manual placement_list  
+\i (00:06:16) FORM plc_manual advanced_settings  
+\i (00:06:19) FORM plc_manual placement_list  
+\i (00:06:23) FORM plc_manual tree  'Package symbols' 
+\i (00:06:24) FORM plc_manual tree  2_54 'Package symbols' 
+\i (00:06:25) FORM plc_manual done  
+\i (00:06:25) setwindow pcb
+\i (00:06:25) generaledit 
+\i (00:06:28) pick grid -14.9066 8.1471
+\t (00:06:28) last pick:  -14.9098 8.1534
+\i (00:06:29) pick grid -6.8932 7.3181
+\t (00:06:29) last pick:  -6.8834 7.3152
+\i (00:06:29) pick grid dbl -6.8932 7.3181
+\t (00:06:29) last pick:  -6.8834 7.3152
+\i (00:06:31) place manual 
+\i (00:06:33) setwindow form.plc_manual
+\i (00:06:33) FORM plc_manual tree 'MULTISEL YES' 2_54 'Package symbols' 
+\e (00:06:33) ERROR(SPMHSY-24): '2_54PAD1', not found in search path.
+\e (00:06:33) Cannot load symbol '2_54'
+\e (00:06:33)   because WARNING(SPMHUT-127): Could not find padstack 2_54PAD1.
+\i (00:06:33) FORM plc_manual tree  2_54 'Package symbols' 
+\i (00:07:10) FORM plc_manual tree  JTAG 'Package symbols' 
+\i (00:07:11) FORM plc_manual tree 'MULTISEL YES' JTAG 'Package symbols' 
+\i (00:07:15) FORM plc_manual propbtn YES 
+\i (00:07:16) FORM plc_manual prevbtn YES 
+\i (00:07:18) FORM plc_manual done  
+\i (00:07:18) setwindow pcb
+\i (00:07:18) generaledit 
+\i (00:07:56) place manual 
+\i (00:07:59) setwindow form.plc_manual
+\i (00:07:59) FORM plc_manual advanced_settings  
+\i (00:08:04) FORM plc_manual placement_list  
+\i (00:08:06) FORM plc_manual advanced_settings  
+\i (00:08:07) FORM plc_manual placement_list  
+\i (00:08:20) FORM plc_manual tree  SOT23_5 'Package symbols' 
+\i (00:08:22) FORM plc_manual done  
+\i (00:08:22) setwindow pcb
+\i (00:08:22) generaledit 
+\i (00:08:23) pick grid -9.3801 1.8837
+\t (00:08:23) last pick:  -9.3726 1.8796
+\i (00:08:23) pick grid dbl -9.3801 1.8837
+\t (00:08:23) last pick:  -9.3726 1.8796
+\i (00:08:25) pick grid -9.3801 1.8837
+\t (00:08:25) last pick:  -9.3726 1.8796
+\i (00:08:25) pick grid dbl -9.3801 1.8837
+\t (00:08:25) last pick:  -9.3726 1.8796
+\i (00:08:25) pick grid -9.3801 1.8837
+\t (00:08:25) last pick:  -9.3726 1.8796
+\i (00:08:25) pick grid dbl -9.3801 1.8837
+\t (00:08:25) last pick:  -9.3726 1.8796
+\i (00:09:08) setwindow form.mini
+\i (00:09:08) FORM mini class PACKAGE GEOMETRY 
+\i (00:09:22) setwindow pcb
+\i (00:09:22) place manual 
+\i (00:09:24) setwindow form.plc_manual
+\i (00:09:24) FORM plc_manual tree  2_54 'Package symbols' 
+\i (00:09:25) FORM plc_manual tree 'MULTISEL YES' 2_54 'Package symbols' 
+\e (00:09:25) ERROR(SPMHSY-24): '2_54PAD1', not found in search path.
+\e (00:09:25) Cannot load symbol '2_54'
+\e (00:09:25)   because WARNING(SPMHUT-127): Could not find padstack 2_54PAD1.
+\i (00:09:28) setwindow pcb
+\i (00:09:28) pick grid 11.1601 4.0022
+\t (00:09:28) last pick:  11.1506 4.0132
+\i (00:09:29) pick grid 9.6864 3.8180
+\t (00:09:29) last pick:  9.6774 3.8100
+\i (00:09:29) pick grid 9.6864 3.8180
+\t (00:09:29) last pick:  9.6774 3.8100
+\i (00:09:29) pick grid dbl 9.6864 3.8180
+\t (00:09:29) last pick:  9.6774 3.8100
+\i (00:09:30) pick grid 9.6864 3.8180
+\t (00:09:30) last pick:  9.6774 3.8100
+\i (00:09:30) pick grid dbl 9.6864 3.8180
+\t (00:09:30) last pick:  9.6774 3.8100
+\i (00:09:30) pick grid 9.6864 3.8180
+\t (00:09:30) last pick:  9.6774 3.8100
+\i (00:09:30) pick grid dbl 9.6864 3.8180
+\t (00:09:30) last pick:  9.6774 3.8100
+\i (00:09:31) pick grid 9.6864 3.8180
+\t (00:09:31) last pick:  9.6774 3.8100
+\i (00:09:31) pick grid dbl 9.6864 3.8180
+\t (00:09:31) last pick:  9.6774 3.8100
+\i (00:09:33) setwindow form.plc_manual
+\i (00:09:33) FORM plc_manual tree 'MULTISEL YES' AT_35UX 'Package symbols' 
+\w (00:09:33) WARNING(SPMHUT-48): Scaled value has been rounded off.
+\i (00:09:33) FORM plc_manual tree  AT_35UX 'Package symbols' 
+\i (00:09:35) FORM plc_manual tree 'MULTISEL NO' AT_35UX 'Package symbols' 
+\i (00:09:58) FORM plc_manual tree 'MULTISEL YES' SOIC-PAD 'Package symbols' 
+\e (00:09:58) ERROR(SPMHSY-24): 'SOIC-PADRX0_45Y2_15', not found in search path.
+\e (00:09:58) Cannot load symbol 'SOIC-PAD'
+\e (00:09:58)   because WARNING(SPMHUT-127): Could not find padstack SOIC-PADRX0_45Y2_15.
+\i (00:09:58) FORM plc_manual tree  SOIC-PAD 'Package symbols' 
+\i (00:10:07) FORM plc_manual cancel  
+\i (00:10:07) setwindow pcb
+\i (00:10:07) generaledit 
+\i (00:10:22) enved 
+\i (00:10:23) generaledit 
+\i (00:10:30) setwindow form.prfedit
+\i (00:10:30) FORM prfedit treelist  Shapes 
+\i (00:10:34) FORM prfedit treelist  Paths 
+\i (00:10:35) FORM prfedit treelist  Config Paths 
+\i (00:10:36) FORM prfedit treelist  Editor Paths 
+\i (00:10:37) FORM prfedit treelist  Library Paths 
+\i (00:11:22) FORM prfedit devpath  
+\i (00:12:26) FORM prfedit devpath  
+\i (00:12:33) FORM prfedit padpath  
+\i (00:12:41) FORM prfedit psmpath  
+\i (00:12:43) FORM prfedit apply  
+\i (00:12:44) FORM prfedit done  
+\i (00:12:49) setwindow pcb
+\i (00:12:49) place manual 
+\i (00:12:54) setwindow form.plc_manual
+\i (00:12:54) FORM plc_manual advanced_settings  
+\i (00:12:55) FORM plc_manual placement_list  
+\i (00:12:56) FORM plc_manual tree  AX1775X675050 'Package symbols' 
+\i (00:13:07) FORM plc_manual tree  SOIC-PAD 'Package symbols' 
+\i (00:13:08) FORM plc_manual tree 'MULTISEL YES' SOIC-PAD 'Package symbols' 
+\e (00:13:08) ERROR(SPMHSY-24): 'SOIC-PADRX0_45Y2_15', not found in search path.
+\e (00:13:08) Cannot load symbol 'SOIC-PAD'
+\e (00:13:08)   because WARNING(SPMHUT-127): Could not find padstack SOIC-PADRX0_45Y2_15.
+\i (00:13:17) FORM plc_manual cancel  
+\i (00:13:17) setwindow pcb
+\i (00:13:17) generaledit 
+\i (00:13:19) enved 
+\i (00:13:20) generaledit 
+\i (00:13:26) setwindow form.prfedit
+\i (00:13:26) FORM prfedit padpath  
+\i (00:14:07) FORM prfedit apply  
+\i (00:14:08) FORM prfedit done  
+\i (00:14:10) setwindow pcb
+\i (00:14:10) place manual 
+\i (00:14:12) setwindow form.plc_manual
+\i (00:14:12) FORM plc_manual tree  2_54 'Package symbols' 
+\i (00:14:14) FORM plc_manual tree 'MULTISEL YES' 2_54 'Package symbols' 
+\e (00:14:14) ERROR(SPMHSY-24): '2_54PAD1', not found in search path.
+\e (00:14:14) Cannot load symbol '2_54'
+\e (00:14:14)   because WARNING(SPMHUT-127): Could not find padstack 2_54PAD1.
+\i (00:14:14) FORM plc_manual tree 'MULTISEL NO' 2_54 'Package symbols' 
+\i (00:14:28) FORM plc_manual tree 'MULTISEL YES' JTAG 'Package symbols' 
+\e (00:14:28) ERROR(SPMHSY-24): '2_54PAD1', not found in search path.
+\e (00:14:28) Cannot load symbol 'JTAG'
+\e (00:14:28)   because WARNING(SPMHUT-127): Could not find padstack 2_54PAD1.
+\i (00:14:28) FORM plc_manual tree  JTAG 'Package symbols' 
+\i (00:14:31) FORM plc_manual done  
+\i (00:14:31) setwindow pcb
+\i (00:14:31) generaledit 
+\i (00:14:32) exit 
+\e (00:14:32) Do you want to save the changes you made to SADA_controller.brd?
+\i (00:14:34) fillin no 
+\t (00:14:34)     Journal end - Thu Apr 04 11:01:02 2019

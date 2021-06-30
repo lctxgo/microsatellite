@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CON_IP.dra                                    )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Wed Apr 03 10:30:43 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = D:/Microsatellite/SADA_controller_PCB/footprint
+    Name      = con_ip.psm
+    User      = Chancel
+    Machine   = DESKTOP-59S32DB
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

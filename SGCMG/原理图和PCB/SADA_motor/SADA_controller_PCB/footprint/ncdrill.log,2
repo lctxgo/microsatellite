@@ -1,0 +1,57 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    NC DRILL Log                                                     )
+(                                                                     )
+(    Drawing          : SADA_controller.brd                           )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Sat Apr 13 13:29:36 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+
+ Processing NC Parameters file 'nc_param.txt' ...
+
+ NC PARAMETERS
+ -------------
+
+ FORMAT   		2.5
+ MACHINE-OFFSET		x:0.00000	y:0.00000   (mm)
+ FEEDRATE		1
+ COORDINATES		ABSOLUTE
+ OUTPUT-UNITS		METRIC
+ TOOL-ORDER		INCREASING
+ REPEAT-CODES		YES
+ SUPPRESS-LEAD-ZEROES	NO
+ SUPPRESS-TRAIL-ZEROES	NO
+ SUPPRESS-EQUAL		NO
+ TOOL-SELECT		NO
+ HEADER			none
+ LEADER			12
+ CODE			ASCII
+ SEPARATE		NO
+ SEPARATE-ROUTING	NO
+ OPTIMIZE_DRILLING	NO
+ ENHANCED_EXCELLON	NO
+ SCALE			1.000000
+
+
+
+ Drill files being output to directory 'D:/Microsatellite/SADA_controller_PCB/footprint' ...
+
+
+
+     'SADA_controller-1-4.drl' created for holes connecting TOP and BOTTOM
+     ---------------------------------------------------------------------
+
+           Num     Size      +/- Tolerance     Plating   Quantity
+
+            1.   0.3000    0.0000/  0.0000      PLATED        127
+            2.   1.0000    0.0000/  0.0000      PLATED         28
+            3.   1.2000    0.0000/  0.0000      PLATED         12
+            4.   3.2000    0.0000/  0.0000      PLATED          4
+
+     ---- Total holes:                                        171
+
+     ---- Total head travel:              9.31 feet (2.84 meters)
+

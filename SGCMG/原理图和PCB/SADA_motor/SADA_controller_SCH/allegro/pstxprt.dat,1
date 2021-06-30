@@ -1,0 +1,1040 @@
+FILE_TYPE = EXPANDEDPARTLIST;
+{ Using PSTWRITER 16.6.0 d001Apr-08-2019 at 20:23:28 }
+DIRECTIVES
+ PST_VERSION='PST_HDL_CENTRIC_VERSION_0';
+ ROOT_DRAWING='SADA_CONTROLLER2_0';
+ POST_TIME='Feb 15 2016 19:53:59';
+ SOURCE_TOOL='CAPTURE_WRITER';
+END_DIRECTIVES;
+
+PART_NAME
+ C1 'CAP NP_SC0603_20PF':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS97218@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins97218@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins97218@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C10 'CAP NP_SC0603_10UF':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS116243@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins116243@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins116243@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C11 'CAP NP_SC0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS115632@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins115632@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins115632@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C12 'CAP NP_SC1210_22UF':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS115290@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins115290@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins115290@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C13 'CAP NP_SC1210_10UF/50V':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS126621@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins126621@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins126621@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C14 'CAP NP_SC0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS126921@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins126921@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins126921@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C15 'CAP NP_SC0603_8.2NF':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS115676@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins115676@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins115676@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C16 'CAP NP_SC0603_25PF':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS115390@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins115390@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins115390@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C17 'CAP NP_SC0603_1.2NF':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS115374@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins115374@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins115374@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C18 'CAP NP_SC0603_100PF/100V':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS99518@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins99518@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins99518@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C19 'CAP NP_SC0603_100PF/100V':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS99498@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins99498@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins99498@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C2 'CAP NP_SC0603_20PF':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS97198@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins97198@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins97198@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C20 'CAP NP_SC0603_100PF/100V':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS100142@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins100142@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins100142@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C21 'CAP NP_SC0603_100PF/100V':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS100162@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins100162@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins100162@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C22 'CAP NP_SC0603_100PF/100V':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS99734@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins99734@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins99734@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C23 'CAP NP_SC0603_100PF/100V':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS99558@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins99558@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins99558@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C24 'CAP NP_SC0603_100PF/100V':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS100082@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins100082@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins100082@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C25 'CAP NP_SC0603_100PF/100V':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS99666@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins99666@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins99666@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C26 'CAP NP_SC0603_470NF/16V':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS100002@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins100002@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins100002@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C27 'CAP NP_SC0603_470NF/16V':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS100182@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins100182@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins100182@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C28 'CAP NP_SC0603_100NF/50V':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS99794@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins99794@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins99794@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C29 'CAP NP_SC0603_100NF/50V':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS100062@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins100062@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins100062@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C3 'CAP NP_SC0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS123402@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins123402@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins123402@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C30 'CAP NP_SC0603_220NF/16V':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS99458@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins99458@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins99458@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C31 'CAP NP_SC0603_100NF/50V':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS99686@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins99686@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins99686@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C32 'CAP NP_SC0603_220NF/16V':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS99578@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins99578@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins99578@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C33 'CAP NP_SC0603_100NF/50V':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS100042@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins100042@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins100042@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C4 'CAP NP_SC0603_1UF':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS97158@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins97158@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins97158@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C5 'CAP NP_SC0603_10UF':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS98406@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins98406@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins98406@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C6 'CAP NP_SC0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS118433@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins118433@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins118433@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C7 'CAP NP_SC0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS116195@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins116195@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins116195@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C8 'CAP NP_SC0603_10UF':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS116211@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins116211@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins116211@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ C9 'CAP NP_SC0603_100NF':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS116227@DISCRETE.CAP NP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins116227@discrete.\cap np.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins116227@discrete.\cap np.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D1 'DIODE SCHOTTKY_SMA_B320A':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS115708@DISCRETE.DIODE SCHOTTKY.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins115708@discrete.\diode schottky.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins115708@discrete.\diode schottky.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D2 'LED_LED0805_GREEN':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS115466@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins115466@discrete.\led.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins115466@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D3 'LED_LED0805_YELLOW':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS108218@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins108218@discrete.\led.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins108218@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D4 'LED_LED0805_YELLOW':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS108689@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins108689@discrete.\led.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins108689@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D5 'LED_LED0805_YELLOW':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS109083@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins109083@discrete.\led.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins109083@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ D6 'LED_LED0805_YELLOW':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS109187@DISCRETE.LED.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins109187@discrete.\led.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins109187@discrete.\led.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J1 'CON4_CON_IP_CON_UART':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS124067@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins124067@connector.\con4.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins124067@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J2 'CON4_CON4_CON_PWR':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS116960@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins116960@connector.\con4.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins116960@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J3 'CON4_CON4_CON_DRV':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS99618@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins99618@connector.\con4.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins99618@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ J4 'CON4_CON4_CON_DRV':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS99706@CONNECTOR.CON4.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins99706@connector.\con4.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins99706@connector.\con4.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ JP1 'JTAG_1_JTAG_JTAG':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS117946@SADA_CONTROLLER.JTAG_1.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins117946@sada_controller.\jtag_1.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins117946@sada_controller.\jtag_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ L1 'INDUCTOR_SL_6.8UH':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS115266@DISCRETE.INDUCTOR.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins115266@discrete.\inductor.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins115266@discrete.\inductor.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q1 '2N1069_SOT23_3_9013':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS107681@TRANSISTOR.2N1069.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins107681@transistor.\2n1069.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins107681@transistor.\2n1069.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q2 '2N1069_SOT23_3_9013':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS108617@TRANSISTOR.2N1069.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins108617@transistor.\2n1069.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins108617@transistor.\2n1069.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q3 '2N1069_SOT23_3_9013':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS109119@TRANSISTOR.2N1069.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins109119@transistor.\2n1069.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins109119@transistor.\2n1069.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Q4 '2N1069_SOT23_3_9013':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS109011@TRANSISTOR.2N1069.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins109011@transistor.\2n1069.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins109011@transistor.\2n1069.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R1 'R_SR0603_10K':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS118034@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins118034@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins118034@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R10 'R_SR0603_1M':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS97138@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins97138@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins97138@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R11 'R_SR0603_0':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS105924@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins105924@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins105924@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R12 'R_SR0603_0':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS105965@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins105965@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins105965@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R13 'R_SR0603_10K':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS97602@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins97602@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins97602@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R14 'R_SR0603_10K':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS97250@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins97250@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins97250@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R15 'R_SR0603_0':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS124765@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins124765@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins124765@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R16 'R_SR0603_0':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS124795@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins124795@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins124795@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R17 'R_SR0603_10K':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS118417@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins118417@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins118417@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R18 'R_SR0603_2':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS111802@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins111802@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins111802@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R19 'R_SR0603_2':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS111828@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins111828@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins111828@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R2 'R_SR0603_10K':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS118014@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins118014@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins118014@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R20 'R_SR0603_510M':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS116353@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins116353@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins116353@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R21 'R_SR0603_510M':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS116337@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins116337@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins116337@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R22 'R_SR0603_510M':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS115554@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins115554@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins115554@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R23 'R_SR0603_510M':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS115530@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins115530@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins115530@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R24 'R_SR0603_27K':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS115306@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins115306@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins115306@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R25 'R_SR0603_36K':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS115358@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins115358@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins115358@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R26 'R_SR0603_5.1K':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS115322@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins115322@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins115322@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R27 'R_SR0603_560':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS115482@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins115482@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins115482@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R28 'R_SR0805_0R15':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS122102@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins122102@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins122102@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R29 'R_SR0805_0R15':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS122868@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins122868@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins122868@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R3 'R_SR0603_10K':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS117914@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins117914@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins117914@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R30 'R_SR0805_0R15':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS122213@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins122213@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins122213@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R31 'R_SR0805_0R15':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS122884@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins122884@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins122884@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R32 'R_SR0603_510M':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS110893@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins110893@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins110893@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R33 'R_SR0603_510M':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS110919@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins110919@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins110919@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R34 'R_SR0603_510M':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS111458@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins111458@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins111458@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R35 'R_SR0603_510M':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS111474@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins111474@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins111474@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R36 'R_SR0603_10K':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS109033@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins109033@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins109033@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R37 'R_SR0603_10K':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS109137@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins109137@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins109137@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R38 'R_SR0603_10K':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS107708@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins107708@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins107708@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R39 'R_SR0603_10K':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS108639@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins108639@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins108639@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R4 'R_SR0603_0':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS124863@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins124863@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins124863@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R40 'R_SR0603_560':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS107738@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins107738@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins107738@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R41 'R_SR0603_560':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS108665@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins108665@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins108665@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R42 'R_SR0603_560':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS109059@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins109059@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins109059@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R43 'R_SR0603_560':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS109171@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins109171@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins109171@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R5 'R_SR0603_0':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS124889@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins124889@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins124889@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R6 'R_SR0603_10K':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS117998@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins117998@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins117998@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R7 'R_SR0603_0':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS124915@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins124915@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins124915@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R8 'R_SR0603_0':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS124941@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins124941@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins124941@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ R9 'R_SR0603_10K':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS117930@DISCRETE.R.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins117930@discrete.\r.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins117930@discrete.\r.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ SW1 'SW_PB_SPST_SW_RST':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS118449@DISCRETE.SW_PB_SPST.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins118449@discrete.\sw_pb_spst.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins118449@discrete.\sw_pb_spst.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP1 'TP_TP_TP':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS128585@CHANCEL.TP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins128585@chancel.\tp.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins128585@chancel.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP2 'TP_TP_TP':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS128595@CHANCEL.TP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins128595@chancel.\tp.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins128595@chancel.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP3 'TP_TP_TP':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS128659@CHANCEL.TP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins128659@chancel.\tp.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins128659@chancel.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ TP4 'TP_TP_TP':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS128669@CHANCEL.TP.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins128669@chancel.\tp.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins128669@chancel.\tp.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U1 'STM32F103RBT6_1_LQFP64_STM32F10':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS98078@SADA_CONTROLLER.STM32F103RBT6_1.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins98078@sada_controller.\stm32f103rbt6_1.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins98078@sada_controller.\stm32f103rbt6_1.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U2 'TPS73633DBV_0_SOT23_5_TPS73633D':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS116259@SADA_CONTROLLER.TPS73633DBV_0.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins116259@sada_controller.\tps73633dbv_0.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins116259@sada_controller.\tps73633dbv_0.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U3 'TPS54332_SOIC-PAD_TPS54332':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS115594@SADA_LIB.TPS54332.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins115594@sada_lib.\tps54332.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins115594@sada_lib.\tps54332.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U4 'TMC260_2_PQFP44_TMC260':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS99814@SADA_CONTROLLER.TMC260_2.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins99814@sada_controller.\tmc260_2.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins99814@sada_controller.\tmc260_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ U5 'TMC260_2_PQFP44_TMC260':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS99250@SADA_CONTROLLER.TMC260_2.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins99250@sada_controller.\tmc260_2.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page2_ins99250@sada_controller.\tmc260_2.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+PART_NAME
+ Y1 'CRYSTAL_CRYSTAL_8M':;
+
+SECTION_NUMBER 1
+ '@SADA_CONTROLLER2_0.SCHEMATIC1(SCH_1):INS97534@DISCRETE.CRYSTAL.NORMAL(CHIPS)':
+ C_PATH='@sada_controller2_0.schematic1(sch_1):ins97534@discrete.\crystal.normal\(chips)',
+ P_PATH='@sada_controller2_0.schematic1(sch_1):page1_ins97534@discrete.\crystal.normal\(chips)',
+ PRIM_FILE='.\pstchip.dat',
+ SECTION='';
+
+END.

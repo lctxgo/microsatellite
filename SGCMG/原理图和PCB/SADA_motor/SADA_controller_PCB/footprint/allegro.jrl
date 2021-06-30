@@ -1,0 +1,93 @@
+\t (00:00:05) allegro 16.6-2015 S066 (v16-6-112FJ) Windows 32
+\t (00:00:05)     Journal start - Mon Dec 07 21:01:12 2020
+\t (00:00:05)         Host=THINKPAD User=Chancel Pid=18332 CPUs=8
+\t (00:00:05) CmdLine= D:\Cadence\Cadence_SPB_16.6-2015\tools\pcb\bin\allegro.exe
+\t (00:00:05) 
+\t (00:00:06) Opening existing design...
+\d (00:00:06) Design opened: D:/Microsatellite/SADA_motor/SADA_controller_PCB/footprint/SADA_controller.brd
+\i (00:00:06) trapsize 3018
+\i (00:00:06) trapsize 2948
+\i (00:00:07) trapsize 3031
+\i (00:00:08) trapsize 3031
+\i (00:00:09) generaledit 
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out -15.3204 8.7837
+\i (00:00:14) trapsize 6061
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out -2.2975 8.7838
+\i (00:00:14) trapsize 12122
+\i (00:00:14) zoom out 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom out 75.4051 3.8734
+\i (00:00:14) trapsize 13629
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in -5.0426 0.1363
+\i (00:00:14) trapsize 6814
+\i (00:00:14) zoom in 1 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) zoom in -45.3833 3.1347
+\i (00:00:14) trapsize 3407
+\i (00:00:15) zoom out 1 
+\i (00:00:15) setwindow pcb
+\i (00:00:15) zoom out -5.7921 -5.7239
+\i (00:00:15) trapsize 6814
+\i (00:00:16) zoom in 1 
+\i (00:00:16) setwindow pcb
+\i (00:00:16) zoom in 8.7223 -9.4036
+\i (00:00:16) trapsize 3407
+\i (00:00:25) zoom out 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom out 24.1909 -1.1582
+\i (00:00:25) trapsize 6814
+\i (00:00:25) zoom out 1 
+\i (00:00:25) setwindow pcb
+\i (00:00:25) zoom out 39.6593 -1.1583
+\i (00:00:25) trapsize 13629
+\i (00:00:26) zoom in 1 
+\i (00:00:26) setwindow pcb
+\i (00:00:26) zoom in 131.7888 -17.3083
+\i (00:00:26) trapsize 6814
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in -14.0375 6.9507
+\i (00:00:33) trapsize 3407
+\i (00:00:33) zoom in 1 
+\i (00:00:33) setwindow pcb
+\i (00:00:33) zoom in -14.0374 6.9507
+\i (00:00:33) trapsize 1704
+\i (00:00:50) zoom out 1 
+\i (00:00:50) setwindow pcb
+\i (00:00:50) zoom out -11.8227 1.8740
+\i (00:00:50) trapsize 3407
+\i (00:00:53) zoom out 1 
+\i (00:00:53) setwindow pcb
+\i (00:00:53) zoom out 18.7735 -13.7307
+\i (00:00:53) trapsize 6814
+\i (00:00:55) zoom out 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom out 24.6678 -6.7801
+\i (00:00:55) trapsize 13629
+\i (00:00:55) zoom in 1 
+\i (00:00:55) setwindow pcb
+\i (00:00:55) zoom in 2.5894 -14.8552
+\i (00:00:55) trapsize 6814
+\i (00:00:56) zoom in 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in 13.6286 -11.4480
+\i (00:00:56) trapsize 3407
+\i (00:00:56) zoom in 1 
+\i (00:00:56) setwindow pcb
+\i (00:00:56) zoom in 15.8092 -12.1294
+\i (00:00:56) trapsize 1704
+\i (00:01:36) setwindow form.vf_vis
+\i (00:01:36) FORM vf_vis 1 plan_colorvisible 1 
+\i (00:01:36) FORM vf_vis 1 etch_colorvisible 1 
+\i (00:01:38) FORM vf_vis 1 etch_colorvisible 0 
+\i (00:01:39) FORM vf_vis 1 via_colorvisible 1 
+\i (00:01:40) FORM vf_vis 1 pin_colorvisible 1 
+\i (01:35:43) setwindow pcb
+\i (01:35:43) exit 
+\t (01:35:44)     Journal end - Mon Dec 07 22:36:51 2020

@@ -1,0 +1,1424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1505</width>
+    <height>884</height>
+   </rect>
+  </property>
+  <property name="maximumSize">
+   <size>
+    <width>16777215</width>
+    <height>16777215</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <layout class="QGridLayout" name="gridLayout_6">
+    <item row="0" column="1" rowspan="2">
+     <widget class="QWidget" name="dataDisplay" native="true">
+      <property name="minimumSize">
+       <size>
+        <width>1200</width>
+        <height>680</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>2000</width>
+        <height>880</height>
+       </size>
+      </property>
+      <layout class="QHBoxLayout" name="horizontalLayout_4">
+       <item>
+        <widget class="QWidget" name="widget_34" native="true">
+         <property name="maximumSize">
+          <size>
+           <width>400</width>
+           <height>600</height>
+          </size>
+         </property>
+         <layout class="QGridLayout" name="gridLayout_3">
+          <item row="0" column="0">
+           <widget class="QLabel" name="label_7">
+            <property name="text">
+             <string>单机识别</string>
+            </property>
+           </widget>
+          </item>
+          <item row="1" column="0">
+           <widget class="QLabel" name="label_8">
+            <property name="text">
+             <string>包头</string>
+            </property>
+           </widget>
+          </item>
+          <item row="1" column="2">
+           <widget class="QTextBrowser" name="textBrowser_2"/>
+          </item>
+          <item row="2" column="0">
+           <widget class="QLabel" name="label_9">
+            <property name="text">
+             <string>帧头</string>
+            </property>
+           </widget>
+          </item>
+          <item row="2" column="2">
+           <widget class="QTextBrowser" name="textBrowser_3"/>
+          </item>
+          <item row="3" column="0">
+           <widget class="QLabel" name="label_10">
+            <property name="text">
+             <string>复位反馈</string>
+            </property>
+           </widget>
+          </item>
+          <item row="3" column="2">
+           <widget class="QTextBrowser" name="textBrowser_4"/>
+          </item>
+          <item row="4" column="0">
+           <widget class="QLabel" name="label_11">
+            <property name="text">
+             <string>传感器1阈值</string>
+            </property>
+           </widget>
+          </item>
+          <item row="4" column="2">
+           <widget class="QTextBrowser" name="textBrowser_5"/>
+          </item>
+          <item row="5" column="0">
+           <widget class="QLabel" name="label_12">
+            <property name="text">
+             <string>传感器2阈值</string>
+            </property>
+           </widget>
+          </item>
+          <item row="5" column="2">
+           <widget class="QTextBrowser" name="textBrowser_6"/>
+          </item>
+          <item row="6" column="0">
+           <widget class="QLabel" name="label_13">
+            <property name="text">
+             <string>传感器3阈值</string>
+            </property>
+           </widget>
+          </item>
+          <item row="6" column="2">
+           <widget class="QTextBrowser" name="textBrowser_7"/>
+          </item>
+          <item row="7" column="0">
+           <widget class="QLabel" name="label_14">
+            <property name="text">
+             <string>时间码</string>
+            </property>
+           </widget>
+          </item>
+          <item row="7" column="2">
+           <widget class="QTextBrowser" name="textBrowser_8"/>
+          </item>
+          <item row="8" column="0" colspan="2">
+           <widget class="QLabel" name="label_15">
+            <property name="text">
+             <string>探测器1照度</string>
+            </property>
+           </widget>
+          </item>
+          <item row="8" column="2">
+           <widget class="QTextBrowser" name="textBrowser_9"/>
+          </item>
+          <item row="9" column="0" colspan="2">
+           <widget class="QLabel" name="label_16">
+            <property name="text">
+             <string>探测器2照度</string>
+            </property>
+           </widget>
+          </item>
+          <item row="9" column="2">
+           <widget class="QTextBrowser" name="textBrowser_10"/>
+          </item>
+          <item row="10" column="0" colspan="2">
+           <widget class="QLabel" name="label_17">
+            <property name="text">
+             <string>探测器3照度</string>
+            </property>
+           </widget>
+          </item>
+          <item row="10" column="2">
+           <widget class="QTextBrowser" name="textBrowser_11"/>
+          </item>
+          <item row="11" column="0" colspan="2">
+           <widget class="QLabel" name="label_18">
+            <property name="text">
+             <string>探测器4照度</string>
+            </property>
+           </widget>
+          </item>
+          <item row="11" column="2">
+           <widget class="QTextBrowser" name="textBrowser_12"/>
+          </item>
+          <item row="12" column="0" colspan="2">
+           <widget class="QLabel" name="label_20">
+            <property name="text">
+             <string>探测器5照度</string>
+            </property>
+           </widget>
+          </item>
+          <item row="12" column="2">
+           <widget class="QTextBrowser" name="textBrowser_13"/>
+          </item>
+          <item row="0" column="2">
+           <widget class="QTextBrowser" name="textBrowser"/>
+          </item>
+         </layout>
+        </widget>
+       </item>
+       <item>
+        <widget class="QWidget" name="widget_8" native="true">
+         <property name="maximumSize">
+          <size>
+           <width>300</width>
+           <height>650</height>
+          </size>
+         </property>
+         <layout class="QHBoxLayout" name="horizontalLayout_3">
+          <item>
+           <widget class="QWidget" name="widget_7" native="true">
+            <property name="minimumSize">
+             <size>
+              <width>0</width>
+              <height>500</height>
+             </size>
+            </property>
+            <property name="maximumSize">
+             <size>
+              <width>50</width>
+              <height>600</height>
+             </size>
+            </property>
+            <layout class="QVBoxLayout" name="verticalLayout_3">
+             <item>
+              <spacer name="verticalSpacer_8">
+               <property name="orientation">
+                <enum>Qt::Vertical</enum>
+               </property>
+               <property name="sizeHint" stdset="0">
+                <size>
+                 <width>20</width>
+                 <height>36</height>
+                </size>
+               </property>
+              </spacer>
+             </item>
+             <item>
+              <widget class="QLabel" name="label_6">
+               <property name="font">
+                <font>
+                 <family>Arial</family>
+                 <pointsize>14</pointsize>
+                </font>
+               </property>
+               <property name="text">
+                <string>告警标志位</string>
+               </property>
+               <property name="textFormat">
+                <enum>Qt::AutoText</enum>
+               </property>
+               <property name="alignment">
+                <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
+               </property>
+               <property name="wordWrap">
+                <bool>true</bool>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <spacer name="verticalSpacer_5">
+               <property name="orientation">
+                <enum>Qt::Vertical</enum>
+               </property>
+               <property name="sizeHint" stdset="0">
+                <size>
+                 <width>20</width>
+                 <height>74</height>
+                </size>
+               </property>
+              </spacer>
+             </item>
+             <item>
+              <widget class="QLabel" name="label_27">
+               <property name="font">
+                <font>
+                 <family>Arial</family>
+                 <pointsize>14</pointsize>
+                </font>
+               </property>
+               <property name="text">
+                <string>方向标志位</string>
+               </property>
+               <property name="textFormat">
+                <enum>Qt::AutoText</enum>
+               </property>
+               <property name="alignment">
+                <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
+               </property>
+               <property name="wordWrap">
+                <bool>true</bool>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <spacer name="verticalSpacer_6">
+               <property name="orientation">
+                <enum>Qt::Vertical</enum>
+               </property>
+               <property name="sizeHint" stdset="0">
+                <size>
+                 <width>20</width>
+                 <height>47</height>
+                </size>
+               </property>
+              </spacer>
+             </item>
+             <item>
+              <widget class="QLabel" name="label_34">
+               <property name="font">
+                <font>
+                 <family>Arial</family>
+                 <pointsize>14</pointsize>
+                </font>
+               </property>
+               <property name="text">
+                <string>方向矢量</string>
+               </property>
+               <property name="textFormat">
+                <enum>Qt::AutoText</enum>
+               </property>
+               <property name="alignment">
+                <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
+               </property>
+               <property name="wordWrap">
+                <bool>true</bool>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <spacer name="verticalSpacer_7">
+               <property name="orientation">
+                <enum>Qt::Vertical</enum>
+               </property>
+               <property name="sizeHint" stdset="0">
+                <size>
+                 <width>20</width>
+                 <height>35</height>
+                </size>
+               </property>
+              </spacer>
+             </item>
+            </layout>
+           </widget>
+          </item>
+          <item>
+           <widget class="QWidget" name="widget_6" native="true">
+            <property name="maximumSize">
+             <size>
+              <width>450</width>
+              <height>750</height>
+             </size>
+            </property>
+            <layout class="QGridLayout" name="gridLayout_2">
+             <item row="0" column="0" colspan="2">
+              <widget class="QLabel" name="label_19">
+               <property name="text">
+                <string>探测器1</string>
+               </property>
+              </widget>
+             </item>
+             <item row="0" column="2" colspan="2">
+              <widget class="QTextBrowser" name="textBrowser_14"/>
+             </item>
+             <item row="1" column="0" colspan="2">
+              <widget class="QLabel" name="label_21">
+               <property name="text">
+                <string>探测器2</string>
+               </property>
+              </widget>
+             </item>
+             <item row="1" column="2" colspan="2">
+              <widget class="QTextBrowser" name="textBrowser_15"/>
+             </item>
+             <item row="2" column="0" colspan="2">
+              <widget class="QLabel" name="label_22">
+               <property name="text">
+                <string>探测器3</string>
+               </property>
+              </widget>
+             </item>
+             <item row="2" column="2" colspan="2">
+              <widget class="QTextBrowser" name="textBrowser_16"/>
+             </item>
+             <item row="3" column="0" colspan="2">
+              <widget class="QLabel" name="label_23">
+               <property name="text">
+                <string>探测器4</string>
+               </property>
+              </widget>
+             </item>
+             <item row="3" column="2" colspan="2">
+              <widget class="QTextBrowser" name="textBrowser_17"/>
+             </item>
+             <item row="4" column="0" colspan="2">
+              <widget class="QLabel" name="label_24">
+               <property name="text">
+                <string>探测器5</string>
+               </property>
+              </widget>
+             </item>
+             <item row="4" column="2" colspan="2">
+              <widget class="QTextBrowser" name="textBrowser_18"/>
+             </item>
+             <item row="5" column="0" colspan="2">
+              <widget class="QLabel" name="label_25">
+               <property name="text">
+                <string>补充位</string>
+               </property>
+              </widget>
+             </item>
+             <item row="5" column="2" colspan="2">
+              <widget class="QTextBrowser" name="textBrowser_19"/>
+             </item>
+             <item row="6" column="0" colspan="3">
+              <widget class="QLabel" name="label_26">
+               <property name="text">
+                <string>告警标志位</string>
+               </property>
+              </widget>
+             </item>
+             <item row="6" column="3">
+              <widget class="QTextBrowser" name="textBrowser_20"/>
+             </item>
+             <item row="7" column="0" colspan="2">
+              <widget class="QLabel" name="label_28">
+               <property name="text">
+                <string>探测器1</string>
+               </property>
+              </widget>
+             </item>
+             <item row="7" column="3">
+              <widget class="QTextBrowser" name="textBrowser_21"/>
+             </item>
+             <item row="8" column="0" colspan="2">
+              <widget class="QLabel" name="label_29">
+               <property name="text">
+                <string>探测器2</string>
+               </property>
+              </widget>
+             </item>
+             <item row="8" column="3">
+              <widget class="QTextBrowser" name="textBrowser_22"/>
+             </item>
+             <item row="9" column="0" colspan="2">
+              <widget class="QLabel" name="label_32">
+               <property name="text">
+                <string>探测器3</string>
+               </property>
+              </widget>
+             </item>
+             <item row="9" column="3">
+              <widget class="QTextBrowser" name="textBrowser_23"/>
+             </item>
+             <item row="10" column="0" colspan="2">
+              <widget class="QLabel" name="label_33">
+               <property name="text">
+                <string>探测器4</string>
+               </property>
+              </widget>
+             </item>
+             <item row="10" column="3">
+              <widget class="QTextBrowser" name="textBrowser_24"/>
+             </item>
+             <item row="11" column="0" colspan="2">
+              <widget class="QLabel" name="label_30">
+               <property name="text">
+                <string>探测器5</string>
+               </property>
+              </widget>
+             </item>
+             <item row="11" column="3">
+              <widget class="QTextBrowser" name="textBrowser_25"/>
+             </item>
+             <item row="12" column="0">
+              <widget class="QLabel" name="label_31">
+               <property name="text">
+                <string>补充</string>
+               </property>
+              </widget>
+             </item>
+             <item row="12" column="3">
+              <widget class="QTextBrowser" name="textBrowser_26"/>
+             </item>
+             <item row="13" column="0">
+              <widget class="QLabel" name="label_37">
+               <property name="text">
+                <string>TCQ1</string>
+               </property>
+              </widget>
+             </item>
+             <item row="13" column="1" colspan="3">
+              <widget class="QTextBrowser" name="textBrowser_27"/>
+             </item>
+             <item row="14" column="0">
+              <widget class="QLabel" name="label_39">
+               <property name="text">
+                <string>TCQ2</string>
+               </property>
+              </widget>
+             </item>
+             <item row="14" column="1" colspan="3">
+              <widget class="QTextBrowser" name="textBrowser_28"/>
+             </item>
+             <item row="15" column="0">
+              <widget class="QLabel" name="label_35">
+               <property name="text">
+                <string>TCQ3</string>
+               </property>
+              </widget>
+             </item>
+             <item row="15" column="1" colspan="3">
+              <widget class="QTextBrowser" name="textBrowser_29"/>
+             </item>
+             <item row="16" column="0">
+              <widget class="QLabel" name="label_36">
+               <property name="text">
+                <string>TCQ4</string>
+               </property>
+              </widget>
+             </item>
+             <item row="16" column="1" colspan="3">
+              <widget class="QTextBrowser" name="textBrowser_30"/>
+             </item>
+             <item row="17" column="0">
+              <widget class="QLabel" name="label_38">
+               <property name="text">
+                <string>TCQ5</string>
+               </property>
+              </widget>
+             </item>
+             <item row="17" column="1" colspan="3">
+              <widget class="QTextBrowser" name="textBrowser_31"/>
+             </item>
+            </layout>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </item>
+       <item>
+        <widget class="QWidget" name="widget_5" native="true">
+         <property name="maximumSize">
+          <size>
+           <width>300</width>
+           <height>600</height>
+          </size>
+         </property>
+         <layout class="QHBoxLayout" name="horizontalLayout_2">
+          <item>
+           <widget class="QWidget" name="widget_4" native="true">
+            <property name="minimumSize">
+             <size>
+              <width>0</width>
+              <height>500</height>
+             </size>
+            </property>
+            <property name="maximumSize">
+             <size>
+              <width>50</width>
+              <height>600</height>
+             </size>
+            </property>
+            <layout class="QVBoxLayout" name="verticalLayout">
+             <item>
+              <spacer name="verticalSpacer_9">
+               <property name="orientation">
+                <enum>Qt::Vertical</enum>
+               </property>
+               <property name="sizeHint" stdset="0">
+                <size>
+                 <width>20</width>
+                 <height>91</height>
+                </size>
+               </property>
+              </spacer>
+             </item>
+             <item>
+              <widget class="QLabel" name="label_40">
+               <property name="font">
+                <font>
+                 <family>Arial</family>
+                 <pointsize>14</pointsize>
+                </font>
+               </property>
+               <property name="text">
+                <string>温度  </string>
+               </property>
+               <property name="textFormat">
+                <enum>Qt::AutoText</enum>
+               </property>
+               <property name="alignment">
+                <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
+               </property>
+               <property name="wordWrap">
+                <bool>true</bool>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <spacer name="verticalSpacer">
+               <property name="orientation">
+                <enum>Qt::Vertical</enum>
+               </property>
+               <property name="sizeHint" stdset="0">
+                <size>
+                 <width>20</width>
+                 <height>150</height>
+                </size>
+               </property>
+              </spacer>
+             </item>
+             <item>
+              <widget class="QLabel" name="label_75">
+               <property name="font">
+                <font>
+                 <family>Arial</family>
+                 <pointsize>14</pointsize>
+                </font>
+               </property>
+               <property name="text">
+                <string>近红外1</string>
+               </property>
+               <property name="textFormat">
+                <enum>Qt::AutoText</enum>
+               </property>
+               <property name="alignment">
+                <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
+               </property>
+               <property name="wordWrap">
+                <bool>true</bool>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <spacer name="verticalSpacer_2">
+               <property name="orientation">
+                <enum>Qt::Vertical</enum>
+               </property>
+               <property name="sizeHint" stdset="0">
+                <size>
+                 <width>20</width>
+                 <height>60</height>
+                </size>
+               </property>
+              </spacer>
+             </item>
+             <item>
+              <widget class="QLabel" name="label_87">
+               <property name="font">
+                <font>
+                 <family>Arial</family>
+                 <pointsize>14</pointsize>
+                </font>
+               </property>
+               <property name="text">
+                <string>近红外2</string>
+               </property>
+               <property name="textFormat">
+                <enum>Qt::AutoText</enum>
+               </property>
+               <property name="alignment">
+                <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
+               </property>
+               <property name="wordWrap">
+                <bool>true</bool>
+               </property>
+              </widget>
+             </item>
+            </layout>
+           </widget>
+          </item>
+          <item>
+           <widget class="QWidget" name="widget_3" native="true">
+            <property name="maximumSize">
+             <size>
+              <width>450</width>
+              <height>600</height>
+             </size>
+            </property>
+            <layout class="QGridLayout" name="gridLayout_5">
+             <item row="0" column="0" colspan="2">
+              <widget class="QLabel" name="label_76">
+               <property name="text">
+                <string>探测器1</string>
+               </property>
+              </widget>
+             </item>
+             <item row="0" column="2">
+              <widget class="QTextBrowser" name="textBrowser_32"/>
+             </item>
+             <item row="1" column="0" colspan="2">
+              <widget class="QLabel" name="label_77">
+               <property name="text">
+                <string>探测器2</string>
+               </property>
+              </widget>
+             </item>
+             <item row="1" column="2">
+              <widget class="QTextBrowser" name="textBrowser_33"/>
+             </item>
+             <item row="2" column="0">
+              <widget class="QLabel" name="label_80">
+               <property name="text">
+                <string>PCB1</string>
+               </property>
+              </widget>
+             </item>
+             <item row="2" column="2">
+              <widget class="QTextBrowser" name="textBrowser_34"/>
+             </item>
+             <item row="3" column="0">
+              <widget class="QLabel" name="label_81">
+               <property name="text">
+                <string>PCB2</string>
+               </property>
+              </widget>
+             </item>
+             <item row="3" column="2">
+              <widget class="QTextBrowser" name="textBrowser_35"/>
+             </item>
+             <item row="4" column="0">
+              <widget class="QLabel" name="label_78">
+               <property name="text">
+                <string>PCB3</string>
+               </property>
+              </widget>
+             </item>
+             <item row="4" column="2">
+              <widget class="QTextBrowser" name="textBrowser_36"/>
+             </item>
+             <item row="5" column="0">
+              <widget class="QLabel" name="label_79">
+               <property name="text">
+                <string>机壳</string>
+               </property>
+              </widget>
+             </item>
+             <item row="5" column="2">
+              <widget class="QTextBrowser" name="textBrowser_37"/>
+             </item>
+             <item row="6" column="0" colspan="2">
+              <widget class="QLabel" name="label_82">
+               <property name="text">
+                <string>5V电压</string>
+               </property>
+              </widget>
+             </item>
+             <item row="6" column="2">
+              <widget class="QTextBrowser" name="textBrowser_38"/>
+             </item>
+             <item row="7" column="0">
+              <widget class="QLabel" name="label_88">
+               <property name="text">
+                <string>I1</string>
+               </property>
+              </widget>
+             </item>
+             <item row="7" column="1" colspan="2">
+              <widget class="QTextBrowser" name="textBrowser_39"/>
+             </item>
+             <item row="8" column="0">
+              <widget class="QLabel" name="label_89">
+               <property name="text">
+                <string>I2</string>
+               </property>
+              </widget>
+             </item>
+             <item row="8" column="1" colspan="2">
+              <widget class="QTextBrowser" name="textBrowser_40"/>
+             </item>
+             <item row="9" column="0">
+              <widget class="QLabel" name="label_90">
+               <property name="text">
+                <string>I3</string>
+               </property>
+              </widget>
+             </item>
+             <item row="9" column="1" colspan="2">
+              <widget class="QTextBrowser" name="textBrowser_41"/>
+             </item>
+             <item row="10" column="0">
+              <widget class="QLabel" name="label_91">
+               <property name="text">
+                <string>I4</string>
+               </property>
+              </widget>
+             </item>
+             <item row="10" column="1" colspan="2">
+              <widget class="QTextBrowser" name="textBrowser_42"/>
+             </item>
+             <item row="11" column="0">
+              <widget class="QLabel" name="label_83">
+               <property name="text">
+                <string>I1</string>
+               </property>
+              </widget>
+             </item>
+             <item row="11" column="1" colspan="2">
+              <widget class="QTextBrowser" name="textBrowser_43"/>
+             </item>
+             <item row="12" column="0">
+              <widget class="QLabel" name="label_84">
+               <property name="text">
+                <string>I2</string>
+               </property>
+              </widget>
+             </item>
+             <item row="12" column="1" colspan="2">
+              <widget class="QTextBrowser" name="textBrowser_44"/>
+             </item>
+             <item row="13" column="0">
+              <widget class="QLabel" name="label_85">
+               <property name="text">
+                <string>I3</string>
+               </property>
+              </widget>
+             </item>
+             <item row="13" column="1" colspan="2">
+              <widget class="QTextBrowser" name="textBrowser_45"/>
+             </item>
+             <item row="14" column="0">
+              <widget class="QLabel" name="label_86">
+               <property name="text">
+                <string>I4</string>
+               </property>
+              </widget>
+             </item>
+             <item row="14" column="1" colspan="2">
+              <widget class="QTextBrowser" name="textBrowser_46"/>
+             </item>
+            </layout>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </item>
+       <item>
+        <widget class="QWidget" name="widget_2" native="true">
+         <property name="maximumSize">
+          <size>
+           <width>300</width>
+           <height>600</height>
+          </size>
+         </property>
+         <layout class="QHBoxLayout" name="horizontalLayout">
+          <item>
+           <widget class="QWidget" name="widget" native="true">
+            <property name="minimumSize">
+             <size>
+              <width>0</width>
+              <height>500</height>
+             </size>
+            </property>
+            <property name="maximumSize">
+             <size>
+              <width>50</width>
+              <height>600</height>
+             </size>
+            </property>
+            <layout class="QVBoxLayout" name="verticalLayout_2">
+             <item>
+              <widget class="QLabel" name="label_130">
+               <property name="font">
+                <font>
+                 <family>Arial</family>
+                 <pointsize>14</pointsize>
+                </font>
+               </property>
+               <property name="text">
+                <string>中波1</string>
+               </property>
+               <property name="textFormat">
+                <enum>Qt::AutoText</enum>
+               </property>
+               <property name="alignment">
+                <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
+               </property>
+               <property name="wordWrap">
+                <bool>true</bool>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <spacer name="verticalSpacer_3">
+               <property name="orientation">
+                <enum>Qt::Vertical</enum>
+               </property>
+               <property name="sizeHint" stdset="0">
+                <size>
+                 <width>20</width>
+                 <height>77</height>
+                </size>
+               </property>
+              </spacer>
+             </item>
+             <item>
+              <widget class="QLabel" name="label_135">
+               <property name="font">
+                <font>
+                 <family>Arial</family>
+                 <pointsize>14</pointsize>
+                </font>
+               </property>
+               <property name="text">
+                <string>中波2</string>
+               </property>
+               <property name="textFormat">
+                <enum>Qt::AutoText</enum>
+               </property>
+               <property name="alignment">
+                <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
+               </property>
+               <property name="wordWrap">
+                <bool>true</bool>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <spacer name="verticalSpacer_4">
+               <property name="orientation">
+                <enum>Qt::Vertical</enum>
+               </property>
+               <property name="sizeHint" stdset="0">
+                <size>
+                 <width>20</width>
+                 <height>77</height>
+                </size>
+               </property>
+              </spacer>
+             </item>
+             <item>
+              <widget class="QLabel" name="label_142">
+               <property name="font">
+                <font>
+                 <family>Arial</family>
+                 <pointsize>14</pointsize>
+                </font>
+               </property>
+               <property name="text">
+                <string>脉冲</string>
+               </property>
+               <property name="textFormat">
+                <enum>Qt::AutoText</enum>
+               </property>
+               <property name="alignment">
+                <set>Qt::AlignLeading|Qt::AlignLeft|Qt::AlignTop</set>
+               </property>
+               <property name="wordWrap">
+                <bool>true</bool>
+               </property>
+              </widget>
+             </item>
+             <item>
+              <spacer name="verticalSpacer_10">
+               <property name="orientation">
+                <enum>Qt::Vertical</enum>
+               </property>
+               <property name="sizeHint" stdset="0">
+                <size>
+                 <width>20</width>
+                 <height>118</height>
+                </size>
+               </property>
+              </spacer>
+             </item>
+            </layout>
+           </widget>
+          </item>
+          <item>
+           <widget class="QWidget" name="widget_16" native="true">
+            <property name="maximumSize">
+             <size>
+              <width>450</width>
+              <height>600</height>
+             </size>
+            </property>
+            <layout class="QGridLayout" name="gridLayout">
+             <item row="3" column="1">
+              <widget class="QTextBrowser" name="textBrowser_50"/>
+             </item>
+             <item row="11" column="0">
+              <widget class="QLabel" name="label_63">
+               <property name="text">
+                <string>I4</string>
+               </property>
+              </widget>
+             </item>
+             <item row="13" column="0">
+              <widget class="QLabel" name="label_66">
+               <property name="text">
+                <string>帧尾</string>
+               </property>
+              </widget>
+             </item>
+             <item row="9" column="1">
+              <widget class="QTextBrowser" name="textBrowser_56"/>
+             </item>
+             <item row="0" column="1">
+              <widget class="QTextBrowser" name="textBrowser_47"/>
+             </item>
+             <item row="5" column="1">
+              <widget class="QTextBrowser" name="textBrowser_52"/>
+             </item>
+             <item row="6" column="1">
+              <widget class="QTextBrowser" name="textBrowser_53"/>
+             </item>
+             <item row="10" column="1">
+              <widget class="QTextBrowser" name="textBrowser_57"/>
+             </item>
+             <item row="2" column="1">
+              <widget class="QTextBrowser" name="textBrowser_49"/>
+             </item>
+             <item row="7" column="1">
+              <widget class="QTextBrowser" name="textBrowser_54"/>
+             </item>
+             <item row="12" column="1">
+              <widget class="QTextBrowser" name="textBrowser_59"/>
+             </item>
+             <item row="5" column="0">
+              <widget class="QLabel" name="label_59">
+               <property name="text">
+                <string>I2</string>
+               </property>
+              </widget>
+             </item>
+             <item row="6" column="0">
+              <widget class="QLabel" name="label_60">
+               <property name="text">
+                <string>I3</string>
+               </property>
+              </widget>
+             </item>
+             <item row="8" column="0">
+              <widget class="QLabel" name="label_62">
+               <property name="text">
+                <string>I1</string>
+               </property>
+              </widget>
+             </item>
+             <item row="9" column="0">
+              <widget class="QLabel" name="label_64">
+               <property name="text">
+                <string>I2</string>
+               </property>
+              </widget>
+             </item>
+             <item row="3" column="0">
+              <widget class="QLabel" name="label_74">
+               <property name="text">
+                <string>I4</string>
+               </property>
+              </widget>
+             </item>
+             <item row="1" column="1">
+              <widget class="QTextBrowser" name="textBrowser_48"/>
+             </item>
+             <item row="1" column="0">
+              <widget class="QLabel" name="label_72">
+               <property name="text">
+                <string>I2</string>
+               </property>
+              </widget>
+             </item>
+             <item row="7" column="0">
+              <widget class="QLabel" name="label_58">
+               <property name="text">
+                <string>I4</string>
+               </property>
+              </widget>
+             </item>
+             <item row="2" column="0">
+              <widget class="QLabel" name="label_73">
+               <property name="text">
+                <string>I3</string>
+               </property>
+              </widget>
+             </item>
+             <item row="12" column="0">
+              <widget class="QLabel" name="label_67">
+               <property name="text">
+                <string>I5</string>
+               </property>
+              </widget>
+             </item>
+             <item row="4" column="1">
+              <widget class="QTextBrowser" name="textBrowser_51"/>
+             </item>
+             <item row="13" column="1">
+              <widget class="QTextBrowser" name="textBrowser_60"/>
+             </item>
+             <item row="8" column="1">
+              <widget class="QTextBrowser" name="textBrowser_55"/>
+             </item>
+             <item row="11" column="1">
+              <widget class="QTextBrowser" name="textBrowser_58"/>
+             </item>
+             <item row="4" column="0">
+              <widget class="QLabel" name="label_57">
+               <property name="text">
+                <string>I1</string>
+               </property>
+              </widget>
+             </item>
+             <item row="10" column="0">
+              <widget class="QLabel" name="label_65">
+               <property name="text">
+                <string>I3</string>
+               </property>
+              </widget>
+             </item>
+             <item row="0" column="0">
+              <widget class="QLabel" name="label_71">
+               <property name="text">
+                <string>I1</string>
+               </property>
+              </widget>
+             </item>
+            </layout>
+           </widget>
+          </item>
+         </layout>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+    </item>
+    <item row="2" column="1">
+     <widget class="QWidget" name="widget_9" native="true">
+      <property name="maximumSize">
+       <size>
+        <width>16777215</width>
+        <height>110</height>
+       </size>
+      </property>
+      <layout class="QGridLayout" name="gridLayout_7">
+       <item row="0" column="0">
+        <widget class="QTextEdit" name="textRST"/>
+       </item>
+       <item row="0" column="1">
+        <widget class="QTextEdit" name="textTime"/>
+       </item>
+       <item row="0" column="2">
+        <widget class="QTextEdit" name="textSend"/>
+       </item>
+       <item row="0" column="3">
+        <widget class="QTextEdit" name="textTH1"/>
+       </item>
+       <item row="0" column="4">
+        <widget class="QTextEdit" name="textTH2"/>
+       </item>
+       <item row="0" column="5">
+        <widget class="QTextEdit" name="textTH3"/>
+       </item>
+       <item row="1" column="0">
+        <widget class="QPushButton" name="btnRST">
+         <property name="text">
+          <string>复位指令</string>
+         </property>
+        </widget>
+       </item>
+       <item row="1" column="1">
+        <widget class="QPushButton" name="btnTime">
+         <property name="text">
+          <string>时间码注入指令</string>
+         </property>
+        </widget>
+       </item>
+       <item row="1" column="2">
+        <widget class="QPushButton" name="btnSend">
+         <property name="text">
+          <string>返回数据指令</string>
+         </property>
+        </widget>
+       </item>
+       <item row="1" column="3">
+        <widget class="QPushButton" name="btnTH1">
+         <property name="text">
+          <string>阈值1注入指令</string>
+         </property>
+        </widget>
+       </item>
+       <item row="1" column="4">
+        <widget class="QPushButton" name="btnTH2">
+         <property name="text">
+          <string>阈值2注入指令</string>
+         </property>
+        </widget>
+       </item>
+       <item row="1" column="5">
+        <widget class="QPushButton" name="btnTH3">
+         <property name="text">
+          <string>阈值3注入指令</string>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+    </item>
+    <item row="0" column="0">
+     <widget class="QWidget" name="widget_33" native="true">
+      <property name="minimumSize">
+       <size>
+        <width>220</width>
+        <height>230</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>220</width>
+        <height>230</height>
+       </size>
+      </property>
+      <layout class="QGridLayout" name="gridLayout_4">
+       <item row="0" column="0">
+        <widget class="QLabel" name="label">
+         <property name="text">
+          <string>串口</string>
+         </property>
+        </widget>
+       </item>
+       <item row="0" column="1" colspan="3">
+        <widget class="QPushButton" name="ButtonScanCom">
+         <property name="text">
+          <string>扫描串口</string>
+         </property>
+        </widget>
+       </item>
+       <item row="2" column="0" colspan="2">
+        <widget class="QLabel" name="label_2">
+         <property name="text">
+          <string>波特率</string>
+         </property>
+        </widget>
+       </item>
+       <item row="2" column="2" colspan="2">
+        <widget class="QComboBox" name="comboBoxBaud"/>
+       </item>
+       <item row="3" column="0" colspan="2">
+        <widget class="QLabel" name="label_4">
+         <property name="text">
+          <string>数据位</string>
+         </property>
+        </widget>
+       </item>
+       <item row="3" column="2" colspan="2">
+        <widget class="QComboBox" name="comboBoxDatabits"/>
+       </item>
+       <item row="4" column="0" colspan="2">
+        <widget class="QLabel" name="label_3">
+         <property name="text">
+          <string>检验位</string>
+         </property>
+        </widget>
+       </item>
+       <item row="4" column="2" colspan="2">
+        <widget class="QComboBox" name="comboBoxParity"/>
+       </item>
+       <item row="5" column="0" colspan="2">
+        <widget class="QLabel" name="label_5">
+         <property name="text">
+          <string>停止位</string>
+         </property>
+        </widget>
+       </item>
+       <item row="5" column="2" colspan="2">
+        <widget class="QComboBox" name="comboBoxStopbits"/>
+       </item>
+       <item row="6" column="0" colspan="3">
+        <widget class="QPushButton" name="ButtonOpenCom">
+         <property name="text">
+          <string>打开串口</string>
+         </property>
+        </widget>
+       </item>
+       <item row="6" column="3">
+        <widget class="QPushButton" name="ButtonCloseCom">
+         <property name="text">
+          <string>关闭串口</string>
+         </property>
+        </widget>
+       </item>
+       <item row="1" column="0" colspan="4">
+        <widget class="QComboBox" name="comboBoxCom">
+         <property name="minimumSize">
+          <size>
+           <width>110</width>
+           <height>0</height>
+          </size>
+         </property>
+        </widget>
+       </item>
+      </layout>
+     </widget>
+    </item>
+    <item row="1" column="0" rowspan="2">
+     <widget class="QWidget" name="RemoteCommand" native="true">
+      <property name="minimumSize">
+       <size>
+        <width>220</width>
+        <height>430</height>
+       </size>
+      </property>
+      <property name="maximumSize">
+       <size>
+        <width>220</width>
+        <height>700</height>
+       </size>
+      </property>
+      <widget class="QTextBrowser" name="textBrowserRec">
+       <property name="geometry">
+        <rect>
+         <x>11</x>
+         <y>11</y>
+         <width>198</width>
+         <height>144</height>
+        </rect>
+       </property>
+      </widget>
+      <widget class="QTextEdit" name="textEditSend">
+       <property name="geometry">
+        <rect>
+         <x>11</x>
+         <y>197</y>
+         <width>198</width>
+         <height>251</height>
+        </rect>
+       </property>
+      </widget>
+      <widget class="QPushButton" name="ButtonSend">
+       <property name="geometry">
+        <rect>
+         <x>10</x>
+         <y>460</y>
+         <width>93</width>
+         <height>28</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>发送</string>
+       </property>
+      </widget>
+      <widget class="QPushButton" name="ButtonClearSend">
+       <property name="geometry">
+        <rect>
+         <x>115</x>
+         <y>460</y>
+         <width>93</width>
+         <height>28</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>清除发送</string>
+       </property>
+      </widget>
+      <widget class="QPushButton" name="ButtonClearRec">
+       <property name="geometry">
+        <rect>
+         <x>11</x>
+         <y>162</y>
+         <width>93</width>
+         <height>28</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>清除接收</string>
+       </property>
+      </widget>
+      <widget class="QCheckBox" name="checkBoxTimer">
+       <property name="geometry">
+        <rect>
+         <x>116</x>
+         <y>166</y>
+         <width>87</width>
+         <height>19</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string>循环发送</string>
+       </property>
+      </widget>
+      <widget class="QTextEdit" name="textSave">
+       <property name="geometry">
+        <rect>
+         <x>11</x>
+         <y>498</y>
+         <width>121</width>
+         <height>51</height>
+        </rect>
+       </property>
+      </widget>
+      <widget class="QCheckBox" name="checkBox">
+       <property name="geometry">
+        <rect>
+         <x>160</x>
+         <y>520</y>
+         <width>16</width>
+         <height>16</height>
+        </rect>
+       </property>
+       <property name="text">
+        <string/>
+       </property>
+      </widget>
+     </widget>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1505</width>
+     <height>26</height>
+    </rect>
+   </property>
+   <widget class="QMenu" name="menuChart">
+    <property name="title">
+     <string>绘图</string>
+    </property>
+    <addaction name="ChartAction"/>
+   </widget>
+   <addaction name="menuChart"/>
+  </widget>
+  <widget class="QToolBar" name="mainToolBar">
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+  <action name="ChartAction">
+   <property name="text">
+    <string>打开绘图窗口</string>
+   </property>
+  </action>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>

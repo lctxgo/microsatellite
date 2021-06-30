@@ -1,0 +1,90 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Auto Silkscreen Log File                                         )
+(                                                                     )
+(    Drawing          : SADA_controller.brd                           )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Fri Apr 12 21:35:52 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Generating Auto Silkscreen for both sides of the board.
+
+Copying all elements.
+
+Element to Pad clearance is 0.0000
+Max Text displacement is 2.5400
+Min Line Length is 0.0000
+Allowing 0 and 90 degree text rotations.
+Text Allowed Under Components.
+Subclass Selections:
+ Board Geometry       : None
+ Component Value      : None
+ Device Type          : None
+ Package Geometry     : Silkscreen
+ Reference Designator : Silkscreen
+ Tolerance            : None
+ User Part Number     : None
+
+
+     ----- Top Silkscreen -----
+
+Text string 'Q4' is not at a suitable location
+(location: -26.4912, -15.3606)
+Text string 'Q3' is not at a suitable location
+(location: -26.4912, -10.7886)
+Text string 'Q2' is not at a suitable location
+(location: -26.4912, -5.9626)
+Text string 'D2' is not at a suitable location
+(location: 24.8412, 24.2316)
+Text string 'R43' is not at a suitable location
+(location: -27.3591, -13.6500)
+Text string 'R42' is not at a suitable location
+(location: -27.3591, -9.0780)
+Text string 'R41' is not at a suitable location
+(location: -27.3591, -4.2520)
+Text string 'R39' is not at a suitable location
+(location: -22.4249, -12.5120)
+Text string 'R38' is not at a suitable location
+(location: -22.4249, -7.9400)
+Text string 'R36' is not at a suitable location
+(location: -22.4249, -17.3380)
+Text string 'J4' is not at a suitable location
+(location: 30.1600, 9.5000)
+Text string 'J3' is not at a suitable location
+(location: -21.0400, 9.5000)
+Text string 'C5' is not at a suitable location
+(location: 13.0048, -16.5100)
+Text string 'C23' is not at a suitable location
+(location: 17.5260, 7.8740)
+Text string 'C20' is not at a suitable location
+(location: -17.0180, 3.5560)
+Text string 'REF DES' is not at a suitable location
+(location: 25.7760, -25.4496)
+
+     ----- Bottom Silkscreen -----
+
+Text string 'R21' is not at a suitable location
+(location: 18.6215, 20.4368)
+Text string 'R20' is not at a suitable location
+(location: 18.6215, 22.5958)
+Text string 'R26' is not at a suitable location
+(location: 14.2850, 25.0477)
+Text string 'R27' is not at a suitable location
+(location: 16.2662, 25.0477)
+Text string 'C10' is not at a suitable location
+(location: 18.2880, 16.2560)
+Text string 'C9' is not at a suitable location
+(location: 16.2560, 16.2560)
+Text string 'C17' is not at a suitable location
+(location: 18.8722, 22.1996)
+Text string 'C16' is not at a suitable location
+(location: 12.7000, 25.0952)
+Text string 'C11' is not at a suitable location
+(location: 6.3500, 21.5900)
+
+Total Failures: 25
+
+Log End
+

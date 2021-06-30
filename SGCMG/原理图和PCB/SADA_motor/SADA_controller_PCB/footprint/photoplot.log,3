@@ -1,0 +1,501 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    ARTWORK LOG                                                      )
+(                                                                     )
+(    Drawing          : SADA_controller.brd                           )
+(    Software Version : 16.6-2015S066                                 )
+(    Date/Time        : Sat Apr 13 14:46:29 2019                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+ ---- Photoplot outline rectangle not found; using drawing extents.
+
+
+
+Results from parameter file ...
+    DEVICE-TYPE           GERBER_RS274X
+    OUTPUT-UNITS          MM
+    FILM-SIZE             2400000 1600000
+    FORMAT                2.5
+    ABORT-ON-ERROR        NO
+    SCALE                 1
+    SUPPRESS-LEAD-ZEROES  YES
+    SUPPRESS-TRAIL-ZEROES NO
+    SUPPRESS-EQUAL        YES
+    UNDEF-APT-CONT        NO
+
+
+
+================================================================
+     PROCESSING FILM < TOP >
+     TO FILE < D:/Microsatellite/SADA_controller_PCB/footprint/TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20320                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     2.00000                                  DARK 
+  CIRCLE     4.00000                                  DARK 
+  SQUARE     1.80000                     0.000 NO     DARK 
+  RECTANGLE  0.45000     x 2.80000       0.000 NO     DARK 
+  RECTANGLE  0.45000     x 2.80000      90.000 NO     DARK 
+  RECTANGLE  0.76200     x 0.81280       0.000 NO     DARK 
+  RECTANGLE  0.76200     x 0.81280      90.000 NO     DARK 
+  RECTANGLE  0.76200     x 1.01600       0.000 NO     DARK 
+  RECTANGLE  0.88900     x 0.81280       0.000 NO     DARK 
+  RECTANGLE  0.88900     x 0.81280      90.000 NO     DARK 
+  RECTANGLE  1.14000     x 1.20000       0.000 NO     DARK 
+  RECTANGLE  1.14000     x 1.20000      90.000 NO     DARK 
+  RECTANGLE  1.77800     x 1.01600       0.000 NO     DARK 
+  RECTANGLE  2.20000     x 0.30000       0.000 NO     DARK 
+  RECTANGLE  2.20000     x 0.30000      90.000 NO     DARK 
+  RECTANGLE  5.50000     x 2.00000      90.000 NO     DARK 
+
+     TOP created.
+
+
+================================================================
+     PROCESSING FILM < GND >
+     TO FILE < D:/Microsatellite/SADA_controller_PCB/footprint/GND.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20320                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     2.00000                                  DARK 
+  CIRCLE     4.00000                                  DARK 
+
+     GND created.
+
+
+================================================================
+     PROCESSING FILM < POWER >
+     TO FILE < D:/Microsatellite/SADA_controller_PCB/footprint/POWER.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20320                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     2.00000                                  DARK 
+  CIRCLE     4.00000                                  DARK 
+
+     POWER created.
+
+
+================================================================
+     PROCESSING FILM < BOTTOM >
+     TO FILE < D:/Microsatellite/SADA_controller_PCB/footprint/BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.20320                                  DARK 
+  CIRCLE     0.50800                                  DARK 
+  CIRCLE     0.60000                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     2.00000                                  DARK 
+  CIRCLE     4.00000                                  DARK 
+  SQUARE     1.80000                     0.000 NO     DARK 
+  RECTANGLE  0.45000     x 2.15000      90.000 NO     DARK 
+  RECTANGLE  0.76200     x 0.81280       0.000 NO     DARK 
+  RECTANGLE  0.76200     x 0.81280      90.000 NO     DARK 
+  RECTANGLE  0.88900     x 0.81280       0.000 NO     DARK 
+  RECTANGLE  0.88900     x 0.81280      90.000 NO     DARK 
+  RECTANGLE  1.10000     x 0.60000       0.000 NO     DARK 
+  RECTANGLE  1.52000     x 2.50000       0.000 NO     DARK 
+  RECTANGLE  1.52000     x 2.50000      90.000 NO     DARK 
+  RECTANGLE  2.50000     x 1.70000       0.000 NO     DARK 
+  RECTANGLE  3.00000     x 2.13000      90.000 NO     DARK 
+  RECTANGLE  3.20000     x 4.70000       0.000 NO     DARK 
+
+     BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SILKSCREEN_TOP >
+     TO FILE < D:/Microsatellite/SADA_controller_PCB/footprint/SILKSCREEN_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: 0 width line found at (-29.0000 25.0000)
+           ... using undefined line width of 0.1524
+
+    WARNING: Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.1524
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.10000                                  DARK 
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.19990                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.40000                                  DARK 
+
+     SILKSCREEN_TOP created with warnings
+
+
+================================================================
+     PROCESSING FILM < SILKSCREEN_BOTTOM >
+     TO FILE < D:/Microsatellite/SADA_controller_PCB/footprint/SILKSCREEN_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.12700                                  DARK 
+  CIRCLE     0.15000                                  DARK 
+  CIRCLE     0.15240                                  DARK 
+  CIRCLE     0.20000                                  DARK 
+  CIRCLE     0.30000                                  DARK 
+  CIRCLE     0.45000                                  DARK 
+
+     SILKSCREEN_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASK_TOP >
+     TO FILE < D:/Microsatellite/SADA_controller_PCB/footprint/SOLDERMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.10000                                  DARK 
+  CIRCLE     1.90000                                  DARK 
+  CIRCLE     2.10000                                  DARK 
+  CIRCLE     4.10000                                  DARK 
+  SQUARE     1.90000                     0.000 NO     DARK 
+  RECTANGLE  0.55000     x 2.90000       0.000 NO     DARK 
+  RECTANGLE  0.55000     x 2.90000      90.000 NO     DARK 
+  RECTANGLE  0.86360     x 0.91440       0.000 NO     DARK 
+  RECTANGLE  0.86360     x 0.91440      90.000 NO     DARK 
+  RECTANGLE  0.91440     x 1.16840       0.000 NO     DARK 
+  RECTANGLE  0.99060     x 0.91440       0.000 NO     DARK 
+  RECTANGLE  0.99060     x 0.91440      90.000 NO     DARK 
+  RECTANGLE  1.24000     x 1.30000       0.000 NO     DARK 
+  RECTANGLE  1.24000     x 1.30000      90.000 NO     DARK 
+  RECTANGLE  1.93040     x 1.16840       0.000 NO     DARK 
+  RECTANGLE  2.30000     x 0.40000       0.000 NO     DARK 
+  RECTANGLE  2.30000     x 0.40000      90.000 NO     DARK 
+  RECTANGLE  5.60000     x 2.10000      90.000 NO     DARK 
+
+     SOLDERMASK_TOP created.
+
+
+================================================================
+     PROCESSING FILM < SOLDERMASK_BOTTOM >
+     TO FILE < D:/Microsatellite/SADA_controller_PCB/footprint/SOLDERMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.90000                                  DARK 
+  CIRCLE     2.10000                                  DARK 
+  CIRCLE     4.10000                                  DARK 
+  SQUARE     1.90000                     0.000 NO     DARK 
+  RECTANGLE  0.55000     x 2.20000      90.000 NO     DARK 
+  RECTANGLE  0.86360     x 0.91440       0.000 NO     DARK 
+  RECTANGLE  0.86360     x 0.91440      90.000 NO     DARK 
+  RECTANGLE  0.99060     x 0.91440       0.000 NO     DARK 
+  RECTANGLE  0.99060     x 0.91440      90.000 NO     DARK 
+  RECTANGLE  1.20000     x 0.70000       0.000 NO     DARK 
+  RECTANGLE  1.62000     x 2.60000       0.000 NO     DARK 
+  RECTANGLE  1.62000     x 2.60000      90.000 NO     DARK 
+  RECTANGLE  2.60000     x 1.80000       0.000 NO     DARK 
+  RECTANGLE  3.30000     x 4.80000       0.000 NO     DARK 
+  RECTANGLE  4.89000     x 2.94000      90.000 NO     DARK 
+
+     SOLDERMASK_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < PASTEMASK_TOP >
+     TO FILE < D:/Microsatellite/SADA_controller_PCB/footprint/PASTEMASK_TOP.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.00000                                  DARK 
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     2.00000                                  DARK 
+  CIRCLE     4.00000                                  DARK 
+  SQUARE     1.80000                     0.000 NO     DARK 
+  RECTANGLE  0.45000     x 2.80000       0.000 NO     DARK 
+  RECTANGLE  0.45000     x 2.80000      90.000 NO     DARK 
+  RECTANGLE  0.76200     x 0.81280       0.000 NO     DARK 
+  RECTANGLE  0.76200     x 0.81280      90.000 NO     DARK 
+  RECTANGLE  0.76200     x 1.01600       0.000 NO     DARK 
+  RECTANGLE  0.88900     x 0.81280       0.000 NO     DARK 
+  RECTANGLE  0.88900     x 0.81280      90.000 NO     DARK 
+  RECTANGLE  1.14000     x 1.20000       0.000 NO     DARK 
+  RECTANGLE  1.14000     x 1.20000      90.000 NO     DARK 
+  RECTANGLE  1.77800     x 1.01600       0.000 NO     DARK 
+  RECTANGLE  2.20000     x 0.30000       0.000 NO     DARK 
+  RECTANGLE  2.20000     x 0.30000      90.000 NO     DARK 
+  RECTANGLE  5.50000     x 2.00000      90.000 NO     DARK 
+
+     PASTEMASK_TOP created.
+
+
+================================================================
+     PROCESSING FILM < PASTEMASK_BOTTOM >
+     TO FILE < D:/Microsatellite/SADA_controller_PCB/footprint/PASTEMASK_BOTTOM.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     1.80000                                  DARK 
+  CIRCLE     2.00000                                  DARK 
+  CIRCLE     4.00000                                  DARK 
+  SQUARE     1.80000                     0.000 NO     DARK 
+  RECTANGLE  0.45000     x 2.15000      90.000 NO     DARK 
+  RECTANGLE  0.76200     x 0.81280       0.000 NO     DARK 
+  RECTANGLE  0.76200     x 0.81280      90.000 NO     DARK 
+  RECTANGLE  0.88900     x 0.81280       0.000 NO     DARK 
+  RECTANGLE  0.88900     x 0.81280      90.000 NO     DARK 
+  RECTANGLE  1.10000     x 0.60000       0.000 NO     DARK 
+  RECTANGLE  1.52000     x 2.50000       0.000 NO     DARK 
+  RECTANGLE  1.52000     x 2.50000      90.000 NO     DARK 
+  RECTANGLE  2.50000     x 1.70000       0.000 NO     DARK 
+  RECTANGLE  3.00000     x 2.13000      90.000 NO     DARK 
+  RECTANGLE  3.20000     x 4.70000       0.000 NO     DARK 
+
+     PASTEMASK_BOTTOM created.
+
+
+================================================================
+     PROCESSING FILM < OUTLINE >
+     TO FILE < D:/Microsatellite/SADA_controller_PCB/footprint/OUTLINE.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.15240                                  DARK 
+
+     OUTLINE created.
+
+
+================================================================
+     PROCESSING FILM < DRILL_DRAWING >
+     TO FILE < D:/Microsatellite/SADA_controller_PCB/footprint/DRILL_DRAWING.art > ...
+================================================================
+
+  FILM PARAMETERS :
+  ---------------------------------------------------------
+  Undefined line width                0.1524
+  Mirror code                         NONE
+  Rotate angle                        NONE
+  Offset x:                           0.0000
+  Offset y:                           0.0000
+  Plot negative                       NO
+  Suppress unconnected internal pads  NO
+  Draw holes only                     NO
+
+    WARNING: text composed 0 width line found at (-44.9707 -45.2985)
+           ... using undefined line width of 0.1524
+
+    WARNING: text having Multiple 0 width lines; all will be treated the same as the first.
+           ... using undefined line width of 0.1524
+
+
+
+  APERTURES USED:
+  ---------------------------------------------------------
+  TYPE       SIZE/NAME                   ROT   MIRROR MODE 
+  ---------------------------------------------------------
+  CIRCLE     0.15240                                  DARK 
+
+     DRILL_DRAWING created with warnings
+
+
+------------------------------------------------------
+ SUMMARY:
+        TOP created.
+        GND created.
+        POWER created.
+        BOTTOM created.
+        SILKSCREEN_TOP created with warnings
+        SILKSCREEN_BOTTOM created.
+        SOLDERMASK_TOP created.
+        SOLDERMASK_BOTTOM created.
+        PASTEMASK_TOP created.
+        PASTEMASK_BOTTOM created.
+        OUTLINE created.
+        DRILL_DRAWING created with warnings
+
+ ARTWORK had warnings
